@@ -1,4 +1,15 @@
-jKiss
-=====
+_____________/\\\________/\\\_______________________________________________________________
+ _______/\\\_\/\\\_____/\\\//______________________________________________/\\\______________
+  ______\///__\/\\\__/\\\//______/\\\______________________________________\///_______________
+   _______/\\\_\/\\\\\\//\\\_____\///___/\\\\\\\\\\__/\\\\\\\\\\_____________/\\\__/\\\\\\\\\\_
+    ______\/\\\_\/\\\//_\//\\\_____/\\\_\/\\\//////__\/\\\//////_____________\/\\\_\/\\\//////__
+     ______\/\\\_\/\\\____\//\\\___\/\\\_\/\\\\\\\\\\_\/\\\\\\\\\\____________\/\\\_\/\\\\\\\\\\_
+      __/\\_\/\\\_\/\\\_____\//\\\__\/\\\_\////////\\\_\////////\\\________/\\_\/\\\_\////////\\\_
+       _\//\\\\\\__\/\\\______\//\\\_\/\\\__/\\\\\\\\\\__/\\\\\\\\\\__/\\\_\//\\\\\\___/\\\\\\\\\\_
+        __\//////___\///________\///__\///__\//////////__\//////////__\///___\//////___\//////////__
 
-<strong><u>J</u></strong>avaScript <strong><u>Ki</u></strong>tchen <strong><u>S</u></strong>ink for <strong><u>S</u></strong>tringUtils. Everything you would (hopefully) need for doing string manipulation in JavaScript....
+<strong>J</strong>avaScript <strong>Ki</strong>tchen <strong>S</strong>ink for <strong>S</strong>tringUtils.
+Everything you would (hopefully) need for doing string manipulation in JavaScript....
+
+This library draws upon other libraries in other mature server-side languages. I often find myself wanting to
+be able to use the same types of string manipulation while doing JavaScript.
